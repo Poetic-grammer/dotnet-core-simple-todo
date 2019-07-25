@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[ToDoItems] (Table)
+       Default Constraint: unnamed constraint on [dbo].[ToDoItems] (Default Constraint)
+       [dbo].[AddToDo] (Procedure)
+       [dbo].[DeleteToDo] (Procedure)
+       [dbo].[ListToDos] (Procedure)
+       [dbo].[MarkCompleteToDo] (Procedure)
+
+** Supporting actions

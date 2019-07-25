@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<ToDoItemModel>
+@using Core_To_Do.Models
+
+<div class="text-center">
+    <h1 class="display-4">Your to do list!</h1>
+    
+    <div>Click to mark your item complete.</div>
+
+    <div id="app">
+        <div class="to-do-list" data-server-rendered="true">
+            @foreach (ToDoItemModel i in Model)
+            {
+                <div class="to-do-item" data-item-id="@(i.id)" data-completed="@(i.completed.ToString().ToLower())">@(i.label)<button class="delete-button">X</button></div>
+            }
+        </div>
+        <div class="to-do-list_new-task-area">
+            Task
+            <input id="new-task-input" type="text" />
+        </div>
+        <button>Save Item</button>
+    </div>
+</div>

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core-To-Do", "Core-To-Do\Core-To-Do.csproj", "{220519C5-6125-4C65-89F8-BE22BEC5E991}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQL-ToDo", "SQL-ToDo\SQL-ToDo.sqlproj", "{EB95B80A-9AE7-4803-B79C-0B1C46E2B2E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{220519C5-6125-4C65-89F8-BE22BEC5E991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220519C5-6125-4C65-89F8-BE22BEC5E991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220519C5-6125-4C65-89F8-BE22BEC5E991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220519C5-6125-4C65-89F8-BE22BEC5E991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB95B80A-9AE7-4803-B79C-0B1C46E2B2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB95B80A-9AE7-4803-B79C-0B1C46E2B2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB95B80A-9AE7-4803-B79C-0B1C46E2B2E4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EB95B80A-9AE7-4803-B79C-0B1C46E2B2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB95B80A-9AE7-4803-B79C-0B1C46E2B2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB95B80A-9AE7-4803-B79C-0B1C46E2B2E4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F8B7F3D-A809-4495-9AE6-505AD3EB6C99}
+	EndGlobalSection
+EndGlobal

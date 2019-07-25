@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[ToDoItems]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[ToDoItems] (Default Constraint)
+     Table rebuild
+       [dbo].[ToDoItems] (Table)
+
+** Supporting actions
+     Refresh
+       [dbo].[AddToDo] (Procedure)
+       [dbo].[DeleteToDo] (Procedure)
+       [dbo].[ListToDos] (Procedure)
+       [dbo].[MarkCompleteToDo] (Procedure)

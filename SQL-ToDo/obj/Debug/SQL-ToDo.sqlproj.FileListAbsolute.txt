@@ -1,0 +1,6 @@
+C:\Users\Alfe\source\repos\Core-To-Do\SQL-ToDo\bin\Debug\SQL-ToDo.dacpac
+C:\Users\Alfe\source\repos\Core-To-Do\SQL-ToDo\bin\Debug\SQL_ToDo.dll
+C:\Users\Alfe\source\repos\Core-To-Do\SQL-ToDo\bin\Debug\SQL_ToDo.pdb
+C:\Users\Alfe\source\repos\Core-To-Do\SQL-ToDo\obj\Debug\SQL_ToDo.dll
+C:\Users\Alfe\source\repos\Core-To-Do\SQL-ToDo\obj\Debug\SQL_ToDo.pdb
+C:\Users\Alfe\source\repos\Core-To-Do\SQL-ToDo\obj\Debug\SQL-ToDo.sqlprojAssemblyReference.cache
